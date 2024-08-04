@@ -1,0 +1,11 @@
+{
+  "name": "reddit-story-ai",
+  "version": "1.0.0",
+  "description": "creates a video that is used with openai",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaideep Kalagara",
+  "license": "MIT"
+}
